@@ -20,9 +20,9 @@ https://github.com/YangTiankai/STM32F4-Core-Board
 
 ![SCH1](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
 
-![SCH2](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
+![SCH2](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH2.png)
 
-![SCH3](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
+![SCH3](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH3.png)
 
 ![PCB1](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/PCB1.png)
 
