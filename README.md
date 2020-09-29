@@ -8,7 +8,21 @@ https://github.com/YangTiankai/STM32F4-Core-Board
 
 # 系统结构
 
+![系统结构](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/sysstrc.png)
+
 # 原理图和PCB
+
+
+![SCH1](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
+
+![SCH2](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
+
+![SCH3](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/SCH1.png)
+
+![PCB1](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/PCB1.png)
+
+![PCB2](https://github.com/YangTiankai/Sensorless-brushless-motor-speed-measurement/blob/master/readmefile/PCB2.png)
+
 
 # 测速原理
 
